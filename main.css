@@ -1,0 +1,71 @@
+body {
+    background-color: #fff5e5 !important;
+    text-decoration: none;
+    font-family: "Nunito" !important;
+    font-weight: medium !important;
+}
+
+.menu {
+    margin: 5px;
+    color: #7c3f00;
+}
+
+.style_1 {
+    margin: 5px;
+    color: #7c3f00;
+}
+
+.style_2 {
+    margin: 10px;
+    color: #3e1c00;
+}
+
+.style_picture {
+    display: inline-block;
+    margin: 5px;
+}
+
+.style_table {
+    display: inline-block;
+    margin: 5px;
+    color: #8c4d44;
+}
+
+.style_form {
+    margin: 5px;
+    color: #7c3f00;
+    accent-color: hotpink
+}
+
+a:link, a:visited {
+    color: green;
+    margin: 5px;
+}
+
+a:hover, a:active {
+    color: hotpink;
+    margin: 5px;
+}
+
+.style_product {
+    display: inline-block;
+    width: 300px;
+    margin: 20px;
+    text-align: center;
+    background-color: #fff2dd;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.style_product img {
+    width: 200px;
+    height: 300px;
+    align-items: center;
+    object-fit: cover;
+    border-radius: 5px;
+}
+  
+.style_product p {
+    margin: 5px;
+    color: #7c3f00 !important;
+}
